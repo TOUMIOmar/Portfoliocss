@@ -1,0 +1,80 @@
+.navbar table{
+    border: 0;
+    background: #bb17e8;
+    width: 100%;
+    padding: 20px;
+    margin: 0px;
+}
+.navbar a {
+    font-family: Bedrock;
+    font-size: 19px;
+}
+.navbar a:hover{
+    background: #E8BB17;
+    color: aliceblue;
+    border-radius: 45%;
+}
+.article p {
+    color:#17E8BB;
+    font-size: 26px;
+    
+
+}
+.article p:hover{
+    color:#E85317;
+
+}
+
+.article table{
+    border: 0;
+    background: #bb17e8;
+    width: 100%;
+}
+.header th {
+    font-family: Bedrock;
+    font-size: 35px;
+    color:#E85317;
+}
+.header th:hover{
+    color: #E8BB17;
+}
+.header table{
+    border: 0;
+    background: #bb17e8;
+    width: 100%;
+}
+.sec label{
+    font-family: Comic Sans MS;
+    color:#E85317;
+    font-size: 25px;
+}
+.sec table {
+    border: 0;
+    background: #bb17e8;
+    width: 100%;
+}
+
+.sec td{
+    height: 120px;
+}
+.sectio table{
+    border: 0;
+    background: #bb17e8;
+    width: 100%;
+}
+.sectio td{
+    font-family:Bedrock ;
+    color:#E817AC;
+    font-size:50px;
+    height: 300px;
+}
+.sectio p{
+    font-family: Bedrock;
+    color:#5317E8;
+    font-size: 25px;
+}
+
+.sectio p:hover{
+    color:red;
+
+}
